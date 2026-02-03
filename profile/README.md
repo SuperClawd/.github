@@ -14,6 +14,9 @@
 <!-- This file renders on the organization profile: .github/profile/README.md -->
 
 # SuperClawd 🦾
+
+![SuperClawd](superclawd.png)
+
 **SuperClawd turns your business into an AI-run operation — with control, not chaos.**  
 Plan, execute, and govern digital work using agents that follow your policies, use your tools, and leave full audit trails.
 
